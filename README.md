@@ -1,6 +1,10 @@
+/*此內容由 Ruki 白兔所寫，若需使用請標注來源，若無法標注來源，請先寄 mail 告知。
+mail : houpig1@gmail.com
+標題請提到此專案名稱。
+*/
 # 頁面置換演算法
 
-文章來源：https://iter01.com/608229.html
+參考文章：https://iter01.com/608229.html
 
 1. FIFO (First In First Out 先進先出)
     - 就...最早放進來的東西在記憶體滿了以後會被替換掉
@@ -20,4 +24,4 @@
 7. LFU (最少使用)
     - 邏輯：過往使用次數最少，未來也不會常用
     - ![](https://i.imgur.com/YnN4vlz.jpg)
-    - 
+    -
