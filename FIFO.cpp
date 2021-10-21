@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int in[3];
+int in[3]; // 記憶體大小
 
 int main(){
     int n;
